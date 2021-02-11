@@ -1,0 +1,164 @@
+@charset "utf-8";
+/* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script+Swash+Caps:wght@400;700&family=Roboto:ital,wght@0,400;0,500;1,100&display=swap');
+
+body{
+	font-family: 'Roboto', sans-serif;
+	color: #FFFFFF;
+}
+
+
+#lumet{
+	background-image: url("../img/Get-Out.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 10%;
+	text-align: center;
+}
+
+#lumet h1{
+	font-size: 100px;
+	font-family: 'Oleo Script Swash Caps', cursive;
+	
+}
+
+
+
+
+
+#festival{
+	background-color: #4D3A64;
+	text-align: center;
+	padding-top: 5%;
+	padding: 8%;
+}
+#festival h4{
+	font-family: 'Roboto', sans-serif;
+	font-weight: lighter;
+	padding-bottom: 5%;
+	
+}
+.circulo{
+	background-color: aliceblue;
+	margin-right: 22%;
+	margin-left: 22%;
+	padding-bottom: 10%;
+	padding-top: 10%;
+	border-radius: 100% ;
+}
+.icon{
+	color: #3484B5;
+	font-size: 60px;
+}
+#festival h6{
+	padding-top: 9%;
+	font-weight: lighter;
+}
+
+
+#submit{
+	background-color: aliceblue;
+	padding: 6%;
+	color: #000000;
+}
+.texto{
+	padding-top: 5%;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+.centro{
+	align-content: center;
+	text-align: center;
+}
+.btn{
+	background-color: #4D3A64;
+	border-radius: 6px;
+	padding: 15px;
+	margin: 5%;
+	padding-right: 7%;
+	padding-left: 7%;
+	font-family: 'Oleo Script Swash Caps', cursive;
+	font-size: 20px;
+}
+#winner{
+	padding: 8%;
+	background-color: #EE3A52;
+}
+.img-fluid{
+	border-radius: 10px;
+	margin-bottom: 10%;
+}
+
+#cuadro{
+	background-color: #6374A6;
+	align-content: center;
+	text-align: center;
+	padding-top: 5%;
+	padding-bottom:  3%;
+}
+#cuadro h4{
+	font-size: 20px;
+	font-weight: lighter;
+}
+.cuadro{
+	padding: 5%
+}
+#email{
+	background-color: #4D3A64;
+	padding: 5%;
+	text-align: center;
+	font-size: 20px;
+	
+	
+}
+#email h1{
+	font-family: 'Oleo Script Swash Caps', cursive;
+	font-size: 50px;
+	padding-bottom: 3%
+}
+.registrarse{
+	background-color: #EE3A52;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 1%;
+	padding-top: 1%;
+	border-radius: 8px;
+	border: none;
+	color: aliceblue;
+	font-family: 'Oleo Script Swash Caps', cursive;
+	
+}
+.nombre {
+	padding-left: 1%;
+	padding-right: 40%;
+	margin-bottom: 2%;
+}
+
+.pass {
+	padding-left: 1%;
+	padding-right: 40%;
+	margin-bottom: 2%;
+}
+.pass2 {
+	padding-left: 1%;
+	padding-right: 40%;
+	margin-bottom: 5%;
+	padding-bottom: 8%;
+}
+footer{
+	background-color: #333333;
+	color: #373946;
+	padding-top: 3%;
+	text-align: center;
+	padding-bottom: 1%;
+}
+.icono{
+	color: #FFFFFF;
+	font-size: 40px;
+}
+.linea{
+	padding-top: 1%;
+	padding-bottom: 3%;
+}
